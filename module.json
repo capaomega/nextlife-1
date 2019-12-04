@@ -1,0 +1,11 @@
+{
+    "id" : "sectorModule",
+    "version" : "0.1.0",
+    "displayName" : "Sector Module Faction",
+    "description" : "Content related to Sector Module Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
