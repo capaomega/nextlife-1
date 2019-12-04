@@ -1,6 +1,7 @@
 {
     "id" : "sectorModule",
     "version" : "0.1.0",
+    "author" : "nailorcn",
     "displayName" : "Sector Module Faction",
     "description" : "Content related to Sector Module Faction.",
     "dependencies" :  [
