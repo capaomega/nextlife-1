@@ -1,0 +1,19 @@
+{
+  "maxAngleVar": 14,
+  "angleVarDamp": 6,
+  "angleVarPerShot": 6,
+  "timeBetweenShots": 1,
+  "reloadTime": 3,
+  "price": 100,
+  "clipName": "sectorModule:sectorXClip",
+  "gunLength": 0.25,
+  "texLenPerc": 0.7,
+  "displayName": "Sector X",
+  "lightOnShot": true,
+  "shootSounds": [
+    "core:waveGun"
+  ],
+  "reloadSounds": [
+    "core:gunReload"
+  ]
+}
