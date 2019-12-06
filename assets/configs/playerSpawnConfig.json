@@ -1,4 +1,10 @@
 {
+	"Sector Small": {
+    "hull": "sectorModule:sectorSmall",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1 sectorModule:sectorXGun-1",
+    "money": 100
+  },
+
 	"Sector Medium": {
     "hull": "sectorModule:sectorMedium",
     "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",

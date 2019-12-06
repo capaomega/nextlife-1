@@ -10,7 +10,7 @@
         "rechargeTime": 10
     },
     "displayName": "Sector01",
-    "engine": "sectorModule:sectorMediumEngine",
+    "engine": "sectorModule:sectorEngine",
     "gunSlots": [
         {
             "position": "0.95 0.5",
