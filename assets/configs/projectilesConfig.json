@@ -1,10 +1,10 @@
 {
-	"sectorX": {
+	"nextLifeX": {
         "dmg": 5,
         "dmgType": "energy",
         "speed": 7,
 
-        "tex": "sectorModule:sectorX",
+        "tex": "nextLifeModule:nextLifeX",
         "texSz": 0.2,
 
         "collisionEffect": {

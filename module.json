@@ -1,9 +1,9 @@
 {
-    "id" : "sectorModule",
+    "id" : "nextLifeModule",
     "version" : "0.1.0",
     "author" : "nailorcn",
-    "displayName" : "Sector Module Faction",
-    "description" : "Content related to Sector Module Faction.",
+    "displayName" : "Next Life Faction",
+    "description" : "Content related to Next Life Faction.",
     "dependencies" :  [
         {
             "id" : "core"

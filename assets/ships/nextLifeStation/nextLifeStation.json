@@ -9,7 +9,7 @@
       "allowsRotation": true
     }
   ],
-  "items": "sectorModule:sectorXGun core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
+  "items": "nextLifeModule:nextLifeXGun core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
   "lightSrcPoss": [
     "0.5 0.75"
   ],

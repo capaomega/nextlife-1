@@ -5,10 +5,10 @@
   "timeBetweenShots": 1,
   "reloadTime": 3,
   "price": 100,
-  "clipName": "sectorModule:sectorXClip",
+  "clipName": "nextLifeModule:nextLifeXClip",
   "gunLength": 0.25,
   "texLenPerc": 0.7,
-  "displayName": "Sector X",
+  "displayName": "Next Life X",
   "lightOnShot": true,
   "shootSounds": [
     "core:waveGun"

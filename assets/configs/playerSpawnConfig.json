@@ -1,25 +1,25 @@
 {
-	"Sector Small": {
-    "hull": "sectorModule:sectorSmall",
-    "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1 sectorModule:sectorXGun-1",
+	"Next Life Small": {
+    "hull": "nextLifeModule:nextLifeSmall",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1 nextLifeModule:nextLifeXGun-1",
     "money": 100
   },
 
-	"Sector Medium": {
-    "hull": "sectorModule:sectorMedium",
+	"Next Life Medium": {
+    "hull": "nextLifeModule:nextLifeMedium",
     "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
     "money": 300
   },
 
-  "Sector Large": {
-    "hull": "sectorModule:sectorLarge",
-    "items": "99*rep core:advancedArmor-1 core:advancedShield-1 sectorModule:sectorXGun-1 core:fixedGun-2 99*core:bulletClip",
+  "Next Life Large": {
+    "hull": "nextLifeModule:nextLifeLarge",
+    "items": "99*rep core:advancedArmor-1 core:advancedShield-1 nextLifeModule:nextLifeXGun-1 core:fixedGun-2 99*core:bulletClip",
     "money": 9999
   },
 
-	"Sector Capital": {
-    "hull": "sectorModule:sectorCapital",
-    "items": "99*rep core:advancedArmor-1 core:advancedShield-1 sectorModule:sectorXGun-1 core:fixedGun-2 99*core:bulletClip",
+	"Next Life Capital": {
+    "hull": "nextLifeModule:nextLifeCapital",
+    "items": "99*rep core:advancedArmor-1 core:advancedShield-1 nextLifeModule:nextLifeXGun-1 core:fixedGun-2 99*core:bulletClip",
     "money": 19999
   }
 }

@@ -9,8 +9,8 @@
         "force" : 300,
         "rechargeTime": 10
     },
-    "displayName": "Sector01",
-    "engine": "sectorModule:sectorEngine",
+    "displayName": "Next Life Medium",
+    "engine": "nextLifeModule:nextLifeEngine",
     "gunSlots": [
         {
             "position": "0.95 0.5",

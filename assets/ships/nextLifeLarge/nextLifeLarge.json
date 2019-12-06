@@ -8,8 +8,8 @@
         "factor": 0.3,
         "rechargeTime": 3
     },
-    "displayName": "Sector02",
-    "engine": "sectorModule:sectorEngine",
+    "displayName": "Next Life Large",
+    "engine": "nextLifeModule:nextLifeEngine",
     "gunSlots": [
         {
             "position": "0.4 0.12",
