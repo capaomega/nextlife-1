@@ -13,13 +13,13 @@
     "gunSlots": [
         {
             "position": "0.4 0.15",
-            "isUnderneathHull": true,
-            "allowsRotation": false
+            "isUnderneathHull": false,
+            "allowsRotation": true
         },
         {
             "position": "0.4 0.85",
-            "isUnderneathHull": true,
-            "allowsRotation": false
+            "isUnderneathHull": false,
+            "allowsRotation": true
         }
     ], 
    "rigidBody": 
