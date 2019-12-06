@@ -5,7 +5,7 @@
   "timeBetweenShots": 1,
   "reloadTime": 3,
   "price": 100,
-  "clipName": "nextLifeModule:nextLifeXClip",
+  "clipName": "nextlife:nextLifeXClip",
   "gunLength": 0.25,
   "texLenPerc": 0.7,
   "displayName": "Next Life X",

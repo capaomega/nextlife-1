@@ -9,7 +9,7 @@
         "rechargeTime": 8
     },
     "displayName": "Next Life Small",
-    "engine": "nextLifeModule:nextLifeEngine",
+    "engine": "nextlife:nextLifeEngine",
     "gunSlots": [
         {
             "position": "0.95 0.5",
